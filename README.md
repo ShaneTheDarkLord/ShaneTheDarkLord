@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanethedarklord&show_icons=true&theme=dark&title_color=ff007b&text_color=ffffff&locale=en&layout=compact" alt="shanethedarklord" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanethedarklord&show_icons=true&locale=en" alt="shanethedarklord" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanethedarklord&theme=dark" alt="shanethedarklord" /></p>
